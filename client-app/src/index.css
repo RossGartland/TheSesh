@@ -5,9 +5,19 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: rgba(34, 167, 240, 1);
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.my-title-1 {
+  color: #FFFFFF;
+  font-weight: bold;
+  padding-top: 100px;
+}
+.card {
+  width: 18rem;
 }
